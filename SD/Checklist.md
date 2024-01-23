@@ -10,8 +10,8 @@
 | Comunicação | 07 | 22-24 | 6 | T |
 | Serialização | 08 | 25-26 | 7 | T |
 | Serialização (cont.) | 09 | 27 |  | T |
-| Threads | 10 | 28-29 | 8 |  |
-| Threads (cont.) | 30 |  |  |  |
+| Threads | 10 | 28-29 | 8 | X |
+| Threads (cont.) | 30 |  |  | X |
 | Tempo físico | 11 | 41 |  |  |
 | Tempo lógico | 12 | 43-46 |  |  |
 | Acordo | 13 | 49-50 |  |  |

@@ -91,3 +91,8 @@ como que sucessivas chamadas ao algoritmo de Peterson
 ## Algoritmo de Bakery
 
 cada thread "tira" uma fita, desempata-se com um fator constante (ex: ordem lexicográfica dos ids das threads)
+
+## Distribuída
+Orquestrador central é una mierda!!!
+
+**token ring** 
