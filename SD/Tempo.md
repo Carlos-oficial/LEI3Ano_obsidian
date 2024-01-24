@@ -1,3 +1,4 @@
+# Tempo Físico
 Relógios não são perfeitos, têm "drift" (a frequencia dos ticks mode variar).
 
 Relógios sincronizados são úteis, mas um problema não trivial.
@@ -11,3 +12,6 @@ Deve ser feita de forma gradual, para não haver saltos no tempo.
 - Repete-se a troca várias vezes e escolhe-se o menor RTT
 ### RBS Reverence Base Synchronization
 - Assumir delay de zero
+
+# Tempo lógico
+As mensagens vão com timestamps, quando recebida uma mensagem, o tempo do sistema fica max(incoming, current_time)+1. Isto Assegura causalidade.
