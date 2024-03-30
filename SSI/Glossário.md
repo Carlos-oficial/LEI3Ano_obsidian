@@ -1,0 +1,1 @@
+[[Cifras de bloco#Electronic Code Book (ECB)|ECB - Elenctronic Code Book]] 
