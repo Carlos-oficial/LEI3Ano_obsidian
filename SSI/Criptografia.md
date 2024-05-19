@@ -7,6 +7,8 @@ Estudo de técnicas para comunicação segura.
 - não repúdio
 - anonimato 
 - identificação
+- Perfect Forward Secrecy
+- ...
 # Criptoanálise
 
 Área da **Criptologia** que visa estudar ataques a métodos de criptografia
